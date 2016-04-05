@@ -5,6 +5,8 @@ set softtabstop=4
 set smartindent
 "show line numbers
 set number
+"line wrap
+set textwidth=79
 " automatically close brakets
 inoremap {      {}<Left>
 inoremap {<CR>  {<CR>}<Esc>O
