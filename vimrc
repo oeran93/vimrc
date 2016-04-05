@@ -1,6 +1,8 @@
 " hard tab is 4 spaces
+set tabstop=4
+set softtabstop=0
+set noexpandtab
 set shiftwidth=4
-set softtabstop=4
 " indent automatically on new line when necessary
 set smartindent
 "show line numbers
